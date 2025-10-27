@@ -169,7 +169,7 @@ def compute_fitness(solution):
 
 ```
 Per LLM in eine Mathefunktion:
-$$ \mathrm{Fitness}(\text{solution})=\sum_{i=1}^{n-1}\sqrt{(x_i-x_{i-1})^2+(y_i-y_{i-1})^2}, $$
+$ \mathrm{Fitness}(\text{solution})=\sum_{i=1}^{n-1}\sqrt{(x_i-x_{i-1})^2+(y_i-y_{i-1})^2}, $
 
 Es werden Swap und Shuffle genutzt, kein Crossover (Nur Mutationen als Operationen).
 
