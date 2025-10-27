@@ -100,9 +100,10 @@ Es wird eine Kostenfunktion (Anzahl der Kanten + Gewicht für genutzte Farben) b
 damit auch schlechtere Zustände mit einer gewissen Wahrscheinlichkeit akzeptiert werden können.
 
 # Aufgabe 2
-- 8queens.py
-- landkarte.py
-
+- [8queens.py] (https://github.com/Satuminus/KI-Vorlesungen-W25-Praktikum/blob/main/praktikum_ea/8queens.py)
+- [landkarte.py] (https://github.com/Satuminus/KI-Vorlesungen-W25-Praktikum/blob/main/praktikum_ea/landkarte.py)
+- [results 8queens] (https://github.com/Satuminus/KI-Vorlesungen-W25-Praktikum/blob/main/results_8queens.csv)
+- [results landkarte] (https://github.com/Satuminus/KI-Vorlesungen-W25-Praktikum/blob/main/results_map.csv) 
 ## 8-Queens-Problem
 
 | Problem | Einstellung | SR | AES | Durchschnittliche Fitness |
