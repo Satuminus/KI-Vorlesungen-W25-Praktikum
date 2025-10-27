@@ -1,0 +1,711 @@
+experiment,run,generation,success,best_fitness
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",1,63,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",2,16,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",3,26,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",4,31,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",5,61,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",6,21,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",7,123,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",8,49,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",9,21,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",10,75,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",11,14,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",12,330,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",13,49,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",14,9,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",15,12,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",16,15,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",17,1000,0,27
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",18,37,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",19,17,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",20,26,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",21,44,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",22,31,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",23,76,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",24,19,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",25,26,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",26,130,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",27,18,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",28,50,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",29,21,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",30,14,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",31,475,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",32,30,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",33,160,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",34,33,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",35,25,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",36,46,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",37,38,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",38,203,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",39,13,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",40,105,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",41,92,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",42,20,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",43,67,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",44,349,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",45,31,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",46,40,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",47,9,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",48,351,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",49,31,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",50,427,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",51,19,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",52,52,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",53,81,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",54,44,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",55,46,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",56,93,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",57,8,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",58,450,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",59,56,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",60,470,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",61,322,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",62,23,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",63,727,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",64,73,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",65,14,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",66,12,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",67,1000,0,27
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",68,27,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",69,29,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",70,33,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",71,14,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",72,53,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",73,92,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",74,51,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",75,691,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",76,16,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",77,55,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",78,15,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",79,21,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",80,17,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",81,132,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",82,73,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",83,30,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",84,27,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",85,431,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",86,101,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",87,48,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",88,33,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",89,182,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",90,49,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",91,25,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",92,11,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",93,36,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",94,44,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",95,16,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",96,27,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",97,75,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",98,9,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",99,7,1,28
+"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",100,435,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",1,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",2,148,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",3,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",4,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",5,524,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",6,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",7,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",8,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",9,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",10,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",11,944,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",12,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",13,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",14,762,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",15,179,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",16,768,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",17,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",18,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",19,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",20,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",21,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",22,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",23,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",24,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",25,369,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",26,72,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",27,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",28,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",29,239,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",30,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",31,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",32,648,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",33,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",34,809,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",35,234,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",36,962,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",37,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",38,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",39,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",40,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",41,943,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",42,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",43,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",44,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",45,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",46,358,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",47,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",48,323,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",49,759,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",50,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",51,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",52,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",53,968,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",54,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",55,758,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",56,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",57,199,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",58,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",59,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",60,599,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",61,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",62,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",63,240,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",64,245,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",65,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",66,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",67,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",68,383,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",69,600,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",70,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",71,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",72,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",73,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",74,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",75,367,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",76,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",77,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",78,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",79,195,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",80,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",81,873,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",82,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",83,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",84,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",85,560,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",86,403,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",87,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",88,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",89,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",90,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",91,596,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",92,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",93,499,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",94,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",95,713,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",96,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",97,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",98,1000,0,27
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",99,285,1,28
+"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",100,15,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",1,19,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",2,77,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",3,383,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",4,108,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",5,96,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",6,23,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",7,197,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",8,44,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",9,55,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",10,10,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",11,45,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",12,25,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",13,155,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",14,25,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",15,48,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",16,263,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",17,23,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",18,50,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",19,27,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",20,16,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",21,9,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",22,15,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",23,20,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",24,588,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",25,32,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",26,54,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",27,43,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",28,22,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",29,75,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",30,62,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",31,24,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",32,4,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",33,408,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",34,18,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",35,381,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",36,101,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",37,169,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",38,8,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",39,36,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",40,26,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",41,21,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",42,372,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",43,149,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",44,16,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",45,94,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",46,27,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",47,2,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",48,384,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",49,40,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",50,21,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",51,20,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",52,22,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",53,215,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",54,30,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",55,12,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",56,19,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",57,21,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",58,29,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",59,24,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",60,13,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",61,16,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",62,17,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",63,16,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",64,32,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",65,16,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",66,20,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",67,59,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",68,65,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",69,85,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",70,26,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",71,41,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",72,39,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",73,43,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",74,60,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",75,48,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",76,329,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",77,22,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",78,20,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",79,38,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",80,45,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",81,334,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",82,26,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",83,447,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",84,17,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",85,674,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",86,17,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",87,83,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",88,10,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",89,15,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",90,141,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",91,15,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",92,18,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",93,18,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",94,24,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",95,6,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",96,15,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",97,7,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",98,40,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",99,30,1,28
+"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",100,64,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",1,34,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",2,73,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",3,11,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",4,9,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",5,33,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",6,47,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",7,1000,0,27
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",8,325,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",9,13,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",10,16,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",11,11,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",12,8,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",13,35,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",14,28,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",15,9,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",16,25,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",17,34,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",18,15,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",19,19,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",20,43,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",21,18,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",22,17,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",23,1000,0,27
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",24,262,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",25,37,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",26,23,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",27,861,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",28,13,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",29,50,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",30,15,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",31,22,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",32,22,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",33,30,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",34,15,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",35,16,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",36,22,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",37,24,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",38,32,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",39,26,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",40,46,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",41,282,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",42,49,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",43,35,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",44,131,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",45,16,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",46,23,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",47,8,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",48,29,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",49,37,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",50,14,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",51,86,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",52,22,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",53,653,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",54,63,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",55,93,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",56,85,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",57,13,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",58,23,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",59,55,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",60,21,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",61,15,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",62,1000,0,27
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",63,49,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",64,56,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",65,606,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",66,16,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",67,24,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",68,18,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",69,26,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",70,26,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",71,14,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",72,27,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",73,143,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",74,78,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",75,44,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",76,14,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",77,19,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",78,13,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",79,399,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",80,14,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",81,72,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",82,38,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",83,16,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",84,12,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",85,125,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",86,23,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",87,17,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",88,15,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",89,29,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",90,46,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",91,32,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",92,16,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",93,26,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",94,21,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",95,1000,0,27
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",96,18,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",97,19,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",98,34,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",99,79,1,28
+"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",100,31,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",1,865,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",2,27,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",3,19,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",4,15,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",5,25,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",6,21,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",7,7,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",8,25,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",9,375,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",10,93,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",11,19,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",12,17,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",13,31,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",14,43,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",15,291,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",16,36,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",17,70,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",18,8,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",19,214,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",20,4,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",21,571,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",22,10,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",23,25,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",24,187,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",25,16,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",26,90,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",27,11,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",28,47,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",29,20,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",30,12,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",31,20,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",32,13,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",33,2,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",34,662,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",35,14,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",36,32,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",37,24,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",38,1000,0,27
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",39,11,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",40,12,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",41,631,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",42,16,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",43,1000,0,27
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",44,23,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",45,7,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",46,10,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",47,14,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",48,1000,0,27
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",49,15,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",50,7,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",51,13,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",52,21,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",53,9,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",54,390,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",55,68,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",56,30,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",57,153,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",58,13,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",59,11,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",60,22,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",61,17,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",62,395,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",63,414,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",64,1000,0,27
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",65,7,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",66,54,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",67,61,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",68,12,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",69,10,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",70,10,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",71,28,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",72,15,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",73,45,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",74,1000,0,27
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",75,11,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",76,7,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",77,13,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",78,239,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",79,14,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",80,160,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",81,13,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",82,310,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",83,6,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",84,20,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",85,6,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",86,10,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",87,16,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",88,54,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",89,8,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",90,100,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",91,33,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",92,16,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",93,15,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",94,9,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",95,5,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",96,12,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",97,460,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",98,333,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",99,346,1,28
+"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",100,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",1,13,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",2,163,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",3,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",4,376,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",5,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",6,35,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",7,23,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",8,81,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",9,45,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",10,106,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",11,5,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",12,20,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",13,6,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",14,15,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",15,63,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",16,40,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",17,666,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",18,1000,0,27
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",19,31,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",20,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",21,20,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",22,22,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",23,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",24,32,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",25,13,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",26,11,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",27,11,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",28,84,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",29,1000,0,27
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",30,31,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",31,159,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",32,411,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",33,15,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",34,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",35,72,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",36,12,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",37,24,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",38,40,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",39,212,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",40,29,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",41,132,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",42,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",43,8,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",44,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",45,12,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",46,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",47,8,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",48,32,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",49,61,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",50,12,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",51,5,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",52,58,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",53,128,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",54,5,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",55,109,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",56,45,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",57,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",58,62,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",59,5,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",60,16,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",61,20,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",62,9,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",63,40,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",64,19,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",65,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",66,29,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",67,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",68,409,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",69,63,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",70,37,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",71,22,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",72,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",73,19,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",74,17,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",75,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",76,112,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",77,250,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",78,33,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",79,281,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",80,52,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",81,66,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",82,43,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",83,46,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",84,533,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",85,16,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",86,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",87,17,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",88,35,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",89,123,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",90,50,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",91,12,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",92,49,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",93,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",94,14,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",95,570,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",96,10,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",97,18,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",98,17,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",99,48,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",100,25,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",1,54,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",2,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",3,77,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",4,282,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",5,156,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",6,18,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",7,89,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",8,115,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",9,119,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",10,93,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",11,39,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",12,107,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",13,143,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",14,123,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",15,24,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",16,89,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",17,16,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",18,7,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",19,14,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",20,139,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",21,269,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",22,84,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",23,61,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",24,6,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",25,353,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",26,15,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",27,302,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",28,88,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",29,92,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",30,86,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",31,122,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",32,24,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",33,270,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",34,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",35,91,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",36,81,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",37,10,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",38,287,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",39,198,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",40,70,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",41,119,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",42,82,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",43,185,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",44,28,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",45,327,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",46,26,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",47,39,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",48,39,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",49,24,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",50,13,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",51,29,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",52,175,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",53,55,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",54,293,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",55,144,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",56,407,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",57,5,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",58,19,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",59,15,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",60,135,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",61,67,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",62,117,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",63,20,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",64,90,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",65,27,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",66,57,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",67,105,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",68,102,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",69,6,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",70,95,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",71,81,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",72,99,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",73,210,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",74,29,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",75,155,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",76,7,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",77,38,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",78,113,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",79,151,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",80,208,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",81,9,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",82,161,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",83,72,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",84,102,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",85,69,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",86,58,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",87,61,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",88,77,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",89,266,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",90,26,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",91,58,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",92,75,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",93,32,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",94,3,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",95,56,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",96,21,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",97,170,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",98,30,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",99,91,1,28
+"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",100,202,1,28
+
+=== SUMMARY ===
+Problem,Einstellung,SR,AES,Durchschnittliche Fitness
+8-Queens,"Kodierung 50, Turnier k=3, 1-Punkt, genweise Mutation",0.9800,95.55,27.980
+8-Queens,"Kodierung 50, Fitnessproportional, 1-Punkt, genweise Mutation",0.3500,501.11,27.350
+8-Queens,"Kodierung 100, Turnier k=3, 2-Punkt, genweise Mutation",1.0000,83.53,28.000
+8-Queens,"Kodierung 100, Turnier k=3, Shuffle, genweise Mutation",0.9600,66.11,27.960
+8-Queens,"Kodierung 100, Turnier k=5, 1-Punkt, genweise Mutation",0.9500,92.08,27.950
+8-Queens,"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_cx=0.7",0.9800,71.95,27.980
+8-Queens,"Kodierung 100, Turnier k=3, 1-Punkt, genweise Mutation, p_mut=0.2",1.0000,98.36,28.000
