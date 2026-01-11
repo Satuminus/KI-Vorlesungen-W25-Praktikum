@@ -1,10 +1,11 @@
-
 ## Aufgabe 1
 
 ### Vorwärtslauf
 
 Mit
-\[A^{[0]} = X\]
+\[
+A^{[0]} = X
+\]
 
 für jede Schicht \(l \in \{1,2,3\}\):
 \[
@@ -24,13 +25,17 @@ Ableitung der Sigmoid-Funktion:
 
 Allgemein gilt:
 \[
-dZ^{[l]} = dA^{[l]} \odot \sigma'(Z^{[l]}), \qquad dA^{[l-1]} = (W^{[l]})^T dZ^{[l]}
+dZ^{[l]} = dA^{[l]} \odot \sigma'(Z^{[l]}), \qquad
+dA^{[l-1]} = (W^{[l]})^T dZ^{[l]}
 \]
 
-Für erste versteckte Schicht ergibt sich:
+Für die erste versteckte Schicht ergibt sich:
 \[
- dZ^{[1]} = \Bigl((W^{[2]})^T\bigl(((W^{[3]})^T dZ^{[3]}) \odot (A^{[2]} \odot (1-A^{[2]}))\bigr)\Bigr)
- \odot (A^{[1]} \odot (1-A^{[1]}))
+dZ^{[1]} =
+\Bigl((W^{[2]})^T
+\bigl(((W^{[3]})^T dZ^{[3]})
+\odot (A^{[2]} \odot (1-A^{[2]}))\bigr)\Bigr)
+\odot (A^{[1]} \odot (1-A^{[1]}))
 \]
 
 ---
@@ -39,34 +44,31 @@ Für erste versteckte Schicht ergibt sich:
 
 Für \(m\) Trainingsbeispiele:
 \[
- dW^{[1]} = \frac{1}{m} dZ^{[1]} (A^{[0]})^T, \qquad
- db^{[1]} = \frac{1}{m} \sum_{i=1}^m dZ^{[1](i)}
+dW^{[1]} = \frac{1}{m} dZ^{[1]} (A^{[0]})^T, \qquad
+db^{[1]} = \frac{1}{m} \sum_{i=1}^m dZ^{[1](i)}
 \]
 
 Gradient Descent:
 \[
- W^{[1]} \leftarrow W^{[1]} - \alpha dW^{[1]}, \qquad
- b^{[1]} \leftarrow b^{[1]} - \alpha db^{[1]}
+W^{[1]} \leftarrow W^{[1]} - \alpha dW^{[1]}, \qquad
+b^{[1]} \leftarrow b^{[1]} - \alpha db^{[1]}
 \]
 
 ---
 
-```markdown
 ## Aufgabe 2
 
 ### Forward Pass
 
 Hidden-Neuron:
 \[
-z_1 = -1\cdot 0 + 1 = 1, 
-\qquad 
+z_1 = -1\cdot 0 + 1 = 1, \qquad
 a_1 = \sigma(1) \approx 0.73106
 \]
 
 Output-Neuron:
 \[
-z_2 = 1\cdot 0.73106 + 2\cdot 0 - 2 = -1.26894, 
-\qquad 
+z_2 = 1\cdot 0.73106 + 2\cdot 0 - 2 = -1.26894, \qquad
 y = \sigma(z_2) \approx 0.21944
 \]
 
@@ -76,8 +78,8 @@ y = \sigma(z_2) \approx 0.21944
 
 Quadratischer Fehler:
 \[
-E = \frac{1}{2}(y - y_T)^2 
-= \frac{1}{2}(0.21944 - 0.5)^2 
+E = \frac{1}{2}(y - y_T)^2
+= \frac{1}{2}(0.21944 - 0.5)^2
 \approx 0.03936
 \]
 
@@ -120,8 +122,7 @@ Partielle Ableitungen:
 
 Update-Regel:
 \[
-w^{neu} = w - \alpha \frac{\partial E}{\partial w},
-\qquad
+w^{neu} = w - \alpha \frac{\partial E}{\partial w}, \qquad
 b^{neu} = b - \alpha \frac{\partial E}{\partial b}
 \]
 
@@ -135,26 +136,30 @@ w_{x\to1}^{neu} &= -1 \\
 b_1^{neu} &\approx 1.00009
 \end{aligned}
 \]
-```
 
+---
 
 ## Aufgabe 3: MLP und Backpropagation
+
 ### Modell (Forward Propagation)
 
 Hidden Layer:
 \[
-z^{[1]} = W^{[1]}x + b^{[1]}, \qquad a^{[1]}=\mathrm{ReLU}(z^{[1]})
+z^{[1]} = W^{[1]}x + b^{[1]}, \qquad
+a^{[1]}=\mathrm{ReLU}(z^{[1]})
 \]
 
 Output Layer:
 \[
-z^{[2]} = W^{[2]}a^{[1]} + b^{[2]}, \qquad \hat y=\sigma(z^{[2]})
+z^{[2]} = W^{[2]}a^{[1]} + b^{[2]}, \qquad
+\hat y=\sigma(z^{[2]})
 \]
 
 Aktivierungen:
 \[
-\mathrm{ReLU}(z)=\max(0,z),\qquad 
-\mathrm{ReLU}'(z)=\begin{cases}
+\mathrm{ReLU}(z)=\max(0,z),\qquad
+\mathrm{ReLU}'(z)=
+\begin{cases}
 1,& z>0\\
 0,& z\le 0
 \end{cases}
@@ -174,21 +179,20 @@ Für Iris (3 Klassen) wird das Label one-hot kodiert \(y\in\{0,1\}^K\) mit \(K=3
 \]
 
 Für Sigmoid + Cross-Entropy gilt:
-
 \[
 \delta^{[2]}=\frac{\partial\mathcal L}{\partial z^{[2]}}=\hat y - y
 \]
 
 ---
 
-Hidden-Delta:
+### Backpropagation
 
+Hidden-Delta:
 \[
 \delta^{[1]} = (W^{[2]})^T\delta^{[2]} \odot \mathrm{ReLU}'(z^{[1]})
 \]
 
 Gradienten:
-
 \[
 \frac{\partial \mathcal L}{\partial W^{[2]}}=\delta^{[2]}(a^{[1]})^T,\qquad
 \frac{\partial \mathcal L}{\partial b^{[2]}}=\delta^{[2]}
@@ -200,13 +204,9 @@ Gradienten:
 \]
 
 SGD-Update (Lernrate \(\alpha\)):
-
 \[
-W \leftarrow W - \alpha\frac{\partial \mathcal L}{\partial W},\qquad
+W \leftarrow W - \alpha\frac{\partial \mathcal L}{\partial W}, \qquad
 b \leftarrow b - \alpha\frac{\partial \mathcal L}{\partial b}
 \]
 
-  ![Diagramm](Figure_1.png)
-
-
-
+![Diagramm](Figure_1.png)
