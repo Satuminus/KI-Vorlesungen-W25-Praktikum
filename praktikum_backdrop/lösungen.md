@@ -48,7 +48,7 @@ dW^{[1]} = \frac{1}{m} dZ^{[1]} (A^{[0]})^T, \qquad
 db^{[1]} = \frac{1}{m} \sum_{i=1}^m dZ^{[1](i)}
 \]
 
-Gradient Descent:
+Gradientenabstieg:
 \[
 W^{[1]} \leftarrow W^{[1]} - \alpha dW^{[1]}, \qquad
 b^{[1]} \leftarrow b^{[1]} - \alpha db^{[1]}
@@ -118,7 +118,7 @@ Partielle Ableitungen:
 
 ---
 
-### Gewichtsupdates (Gradient Descent, \(\alpha = 0.01\))
+### Gewichtsupdates (\(\alpha = 0.01\))
 
 Update-Regel:
 \[
@@ -172,7 +172,7 @@ Aktivierungen:
 
 ### Loss
 
-Für Iris (3 Klassen) wird das Label one-hot kodiert \(y\in\{0,1\}^K\) mit \(K=3\). Mit Sigmoid-Ausgängen verwenden wir die Summe binärer Cross-Entropies über alle Outputs:
+Für den Iris-Datensatz (3 Klassen) wird das Label one-hot kodiert \(y\in\{0,1\}^K\) mit \(K=3\). Mit Sigmoid-Ausgängen ergibt sich die Summe binärer Cross-Entropies:
 
 \[
 \mathcal L = -\sum_{k=1}^K \Big[y_k\log(\hat y_k)+(1-y_k)\log(1-\hat y_k)\Big]
@@ -185,7 +185,7 @@ Für Sigmoid + Cross-Entropy gilt:
 
 ---
 
-### Backpropagation
+### Backpropagation und Update
 
 Hidden-Delta:
 \[
@@ -197,13 +197,12 @@ Gradienten:
 \frac{\partial \mathcal L}{\partial W^{[2]}}=\delta^{[2]}(a^{[1]})^T,\qquad
 \frac{\partial \mathcal L}{\partial b^{[2]}}=\delta^{[2]}
 \]
-
 \[
 \frac{\partial \mathcal L}{\partial W^{[1]}}=\delta^{[1]}x^T,\qquad
 \frac{\partial \mathcal L}{\partial b^{[1]}}=\delta^{[1]}
 \]
 
-SGD-Update (Lernrate \(\alpha\)):
+SGD-Update:
 \[
 W \leftarrow W - \alpha\frac{\partial \mathcal L}{\partial W}, \qquad
 b \leftarrow b - \alpha\frac{\partial \mathcal L}{\partial b}
